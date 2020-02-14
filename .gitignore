@@ -58,3 +58,5 @@ release.properties
 pom.xml.releaseBackup
 pom.xml.tag
 /AbstractFactory/.vs
+/.vs/design-patterns/v16/TestStore/0
+/.vs

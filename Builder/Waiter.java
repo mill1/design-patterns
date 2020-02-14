@@ -1,4 +1,4 @@
-/* "Director": build pizza in a specific order */
+/* "Director" */
 class Waiter {
     
 	private PizzaBuilder pizzaBuilder;
